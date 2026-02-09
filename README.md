@@ -1,0 +1,2 @@
+# Apartment-Price-Prediction-MVP-for-Mexico-City
+Here’s a **clean GitHub description under 350 characters**:  > **Mexico City Apartment Price Prediction MVP** > A machine learning MVP that predicts apartment prices in Mexico City using property size, geographic coordinates, and borough-level features. Includes data wrangling, feature engineering, Ridge regression, and coefficient interpretation.
